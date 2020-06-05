@@ -8,9 +8,9 @@ EFI-ASUS-B250M
 <img title="USBmap" src="Docs/USBmap.png" alt="USBmap" data-align="center">
 
 
-## 硬件详情
+## 硬體資訊
 
-| 配置     | 产品型号                               |
+| 配置     | 產品型號                               |
 | :------- | :------------------------------------- |
 | 主板     | ASUS Prime B250M-A                     |
 | 處理器   | Intel Core i7-7700                     |
