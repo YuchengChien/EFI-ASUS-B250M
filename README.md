@@ -13,12 +13,12 @@ EFI-ASUS-B250M
 | 配置     | 产品型号                               |
 | :------- | :------------------------------------- |
 | 主板     | ASUS Prime B250M-A                     |
-| 处理器   | Intel Core i5-7500 @ 3.40GHz           |
-| 内存     | Kingston 8GBx3 DDR4 2400MHz            |
-| 硬盘     | WD Blue SN500 NVMe SSD 500G            |
-| 核显     | Intel HD Graphics 630（id=0x59120003） |
-| 独显     | AMD Readon HD7850                      |
-| 声卡     | Realtek ALC887（id=52）                |
-| 有线网卡 | Realtek RTL8111H                       |
-| 无线网卡 | Broadcom BCM4331（WiFi+Bluetooth）     |
-| 显示器   | Lenove ThinkVison P24Q                 |
+| 處理器   | Intel Core i7-7700                     |
+| 記憶體   | Micron Crucial DDR4-2400-8G*2          |
+| 硬碟     | Micron Crucial MX500 500GB             |
+| 內顯     | Intel HD Graphics 630（id=0x59120003）  |
+| 外顯     | ASUS STRIX RX470 O4G GAMING            |
+| 音效卡   | Realtek ALC887（id=52）                 |
+| 有線網卡  | Realtek RTL8111H                       |
+| 無線網卡  | Fenvi FV-T919（WiFi+Bluetooth）         | 
+| 顯示器    | ASUS VH228                             |
