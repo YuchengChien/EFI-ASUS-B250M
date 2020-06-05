@@ -49,12 +49,12 @@
 						<key>port</key>
 						<data>AQAAAA==</data>
 					</dict>
-					<key>HS03</key>
+					<key>HS02</key>
 					<dict>
 						<key>UsbConnector</key>
-						<integer>10</integer>
+						<integer>3</integer>
 						<key>port</key>
-						<data>AwAAAA==</data>
+						<data>AgAAAA==</data>
 					</dict>
 					<key>HS04</key>
 					<dict>
@@ -119,12 +119,12 @@
 						<key>port</key>
 						<data>EQAAAA==</data>
 					</dict>
-					<key>SS03</key>
+					<key>SS02</key>
 					<dict>
 						<key>UsbConnector</key>
-						<integer>10</integer>
+						<integer>3</integer>
 						<key>port</key>
-						<data>EwAAAA==</data>
+						<data>EgAAAA==</data>
 					</dict>
 					<key>SS04</key>
 					<dict>
